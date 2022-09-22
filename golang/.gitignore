@@ -1,0 +1,20 @@
+# Project binaries
+/my_go_project_executable_binary
+
+# Generic binaries
+*.exe
+*.exe~
+*.com
+*.sys
+*.dll
+*.dylib
+*.so
+
+# Go test binary, built with `go test -c`
+*.test
+
+# Go coverage tool output (With LiteIDE)
+*.out
+
+# Go vendor folder
+vendor/

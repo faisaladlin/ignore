@@ -1,0 +1,30 @@
+# NPM packages, build caches
+node_modules/
+dist/
+dist-ssr/
+.npm
+
+# TypeScript cache
+.tsbuildinfo
+
+# ESLint cache
+.eslintcache
+
+# Stylelint cache
+.stylelintcache
+
+# Yarn Integrity file
+.yarn-integrity
+
+# Yarn v2
+.yarn/cache
+.yarn/unplugged
+.yarn/build-state.yml
+.yarn/install-state.gz
+.pnp.*
+
+# Serverless Webpack directories
+.webpack/
+
+# SvelteKit build / generate output
+.svelte-kit

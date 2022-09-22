@@ -1,0 +1,20 @@
+# Zip files
+*.zip
+*.jar
+*.rar
+*.tar
+*.gz
+*.7z
+
+# Optical Disk Image files
+*.iso
+
+# Apple Disk Image files
+*.dmg
+
+# Windows Installer files
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp

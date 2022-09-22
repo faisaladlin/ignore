@@ -1,0 +1,157 @@
+# macOS cache
+.DS_Store
+.AppleDouble
+.LSOverride
+.Spotlight-V100
+.Trashes
+
+# Windows caches & shortcuts
+Thumbs.db
+ehthumbs.db
+*.lnk
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+# IDE folders
+.idea/
+.vscode/
+.vs/
+
+# Log files
+*.log
+*-debug.log*
+*-error.log*
+
+# Environment / Config (Exclude Example)
+.env
+.env.*
+!.env.example
+config.ini
+config-*.ini
+!config-example.ini
+config.json
+config-*.json
+!config-example.json
+
+# Docker Compose (Exclude Example)
+compose.yaml
+compose-*.yaml
+!compose-example.yaml
+
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+# Project binaries
+/my_go_project_executable_binary
+
+# Generic binaries
+*.exe
+*.exe~
+*.com
+*.sys
+*.dll
+*.dylib
+*.so
+
+# Go test binary, built with `go test -c`
+*.test
+
+# Go coverage tool output (With LiteIDE)
+*.out
+
+# Go vendor folder
+vendor/
+
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+# NPM packages, build caches
+node_modules/
+dist/
+dist-ssr/
+.npm
+
+# TypeScript cache
+.tsbuildinfo
+
+# ESLint cache
+.eslintcache
+
+# Stylelint cache
+.stylelintcache
+
+# Yarn Integrity file
+.yarn-integrity
+
+# Yarn v2
+.yarn/cache
+.yarn/unplugged
+.yarn/build-state.yml
+.yarn/install-state.gz
+.pnp.*
+
+# Serverless Webpack directories
+.webpack/
+
+# SvelteKit build / generate output
+.svelte-kit
+
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+# SQLite files
+*.sqlite
+*.sqlite3
+*.db
+*.db3
+*.s3db
+*.sl3
+
+# MS Access files
+*.mdb
+*.accdb
+*.accdr
+*.accdt
+*.laccdb
+
+# MS SQL Server files
+*.mdf
+*.ldf
+*.ndf
+
+# MySQL files
+*.frm
+*.myd
+*.myi
+
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+# SSH folder
+.ssh/
+
+# PEM & key files
+*.pem
+*.key
+
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+# Zip files
+*.zip
+*.jar
+*.rar
+*.tar
+*.gz
+*.7z
+
+# Optical Disk Image files
+*.iso
+
+# Apple Disk Image files
+*.dmg
+
+# Windows Installer files
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp

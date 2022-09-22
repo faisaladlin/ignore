@@ -1,0 +1,27 @@
+# SQLite files
+*.sqlite
+*.sqlite3
+*.db
+*.db3
+*.s3db
+*.sl3
+
+# MS Access files
+*.mdb
+*.accdb
+*.accdr
+*.accdt
+*.laccdb
+
+# DynamoDB Local files
+.dynamodb/
+
+# MS SQL Server files
+*.mdf
+*.ldf
+*.ndf
+
+# MySQL files
+*.frm
+*.myd
+*.myi

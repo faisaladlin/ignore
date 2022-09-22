@@ -1,0 +1,14 @@
+# macOS cache
+.DS_Store
+.AppleDouble
+.LSOverride
+.Spotlight-V100
+.Trashes
+
+# Windows caches & shortcuts
+Thumbs.db
+ehthumbs.db
+*.lnk
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/

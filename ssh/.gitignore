@@ -1,0 +1,6 @@
+# SSH folder
+.ssh/
+
+# PEM & key files
+*.pem
+*.key

@@ -1,0 +1,25 @@
+# IDE folders
+.idea/
+.vscode/
+.vs/
+
+# Log files
+*.log
+*-debug.log*
+*-error.log*
+
+# Environment / Config (Exclude Example)
+.env
+.env.*
+!.env.example
+config.ini
+config-*.ini
+!config-example.ini
+config.json
+config-*.json
+!config-example.json
+
+# Docker Compose (Exclude Example)
+compose.yaml
+compose-*.yaml
+!compose-example.yaml
